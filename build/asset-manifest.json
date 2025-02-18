@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Data-Structures-and-Algorithms-I---C949/static/css/main.e05a795d.css",
+    "main.js": "/Data-Structures-and-Algorithms-I---C949/static/js/main.8616d8cd.js",
+    "static/media/Question41.jpg": "/Data-Structures-and-Algorithms-I---C949/static/media/Question41.5e110601bac4c42121f2.jpg",
+    "static/media/Question36.jpg": "/Data-Structures-and-Algorithms-I---C949/static/media/Question36.c64e9c81b7f0326038c4.jpg",
+    "static/media/Question35.jpg": "/Data-Structures-and-Algorithms-I---C949/static/media/Question35.793f27b885ca612bf7b6.jpg",
+    "static/media/Question34.jpg": "/Data-Structures-and-Algorithms-I---C949/static/media/Question34.3451ed795440e7918759.jpg",
+    "index.html": "/Data-Structures-and-Algorithms-I---C949/index.html",
+    "main.e05a795d.css.map": "/Data-Structures-and-Algorithms-I---C949/static/css/main.e05a795d.css.map",
+    "main.8616d8cd.js.map": "/Data-Structures-and-Algorithms-I---C949/static/js/main.8616d8cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e05a795d.css",
+    "static/js/main.8616d8cd.js"
+  ]
+}
