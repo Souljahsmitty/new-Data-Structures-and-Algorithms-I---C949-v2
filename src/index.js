@@ -45,6 +45,18 @@ import Question37 from "./Question37";
 import Question38 from "./Question38";
 import Question39 from "./Question39";
 import Question40 from "./Question40";
+import Question41 from "./Question41";
+import Question42 from "./Question42";
+import Question43 from "./Question43";
+import Question44 from "./Question44";
+import Question45 from "./Question45";
+import Question46 from "./Question46";
+import Question47 from "./Question47";
+import Question48 from "./Question48";
+import Question49 from "./Question49";
+import Question50 from "./Question50";
+
+
 
 const App = () => {
     return (
@@ -93,6 +105,16 @@ const App = () => {
 							<Route path="/question38" element={<Question38 />} />
 							<Route path="/question39" element={<Question39 />} />
 							<Route path="/question40" element={<Question40 />} />
+							<Route path="/question41" element={<Question41 />} />
+							<Route path="/question42" element={<Question42 />} />
+							<Route path="/question43" element={<Question43 />} />
+							<Route path="/question44" element={<Question44 />} />
+							<Route path="/question45" element={<Question45 />} />
+							<Route path="/question46" element={<Question46 />} />
+							<Route path="/question47" element={<Question47 />} />
+							<Route path="/question48" element={<Question48 />} />
+							<Route path="/question49" element={<Question49 />} />
+							<Route path="/question50" element={<Question50 />} />
                     </Routes>
                 </div>
             </Router>
